@@ -43,7 +43,7 @@ span{
 	width: 227px;	
 	color: white;
 	top: 450px;
-	left: 10px;
+	left: 22px;
 }
 p{
 	position: absolute;
@@ -63,4 +63,53 @@ p{
 	top: 450px;
 	width: 227px;
 	left: 330px;
+}
+.txt5{
+	position: absolute;
+	color: white;
+	top: 415px;
+	left: 635px;
+}
+.txt6{
+	position: absolute;
+	color: white;
+	top: 450px;
+	width: 227px;
+	left: 635px;
+}
+.txt7{
+	position: absolute;
+	color: white;
+	top: 415px;
+	left: 935px;
+}
+.txt8{
+	position: absolute;
+	color: white;
+	top: 450px;
+	width: 227px;
+	left: 935px;
+}
+.txt9{
+	position: absolute;
+    color: #FF6E40;
+    top: 590px;
+}
+.txt10{
+	position: absolute;
+	color: #FF6E40;
+	top: 590px; 
+	left: 330px;
+}
+.txt11{
+	position: absolute;
+	color: #FF6E40;
+	top: 590px; 
+	left: 635px;
+}
+.txt12{
+	position: absolute;
+	color: #FF6E40;
+	top: 590px; 
+	left: 935px;
 }
